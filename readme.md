@@ -1,5 +1,13 @@
 #EXPRESS BACKEND
 
+##INSTALL
+
+To install just run:
+
+```
+npm install
+```
+
 
 This backend has jwt embedded on it.
 
